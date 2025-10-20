@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Patience Nalweyiso
 - 👀 I’m interested in javascript
-- 🌱 I’m currently learning pyt
-- 📫 How to reach me nalweiso@gmail.com.
+- 🌱 I’m currently learning php
+- 📫 How to reach me nalweisopatience@gmail.com.
