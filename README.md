@@ -1,4 +1,7 @@
 - 👋 Hi, I’m Patience Nalweyiso
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning php
-- 📫 How to reach me nalweisopatience@gmail.com.
+- 📫 How to reach me nalweisopatience@gmail.com and on my telephone 📞 number 0709869631
+- I am aslo goood at wordpress
+- I build interactive websites
+- 
